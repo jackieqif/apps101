@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">app13</string>
+    <string name="hello_world">Hello world, again!</string>
+    <string name="hello_world2">This is my 2nd app!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
