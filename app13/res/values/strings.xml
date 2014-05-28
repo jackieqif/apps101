@@ -2,8 +2,9 @@
 <resources>
 
     <string name="app_name">app13</string>
-    <string name="hello_world">Hello world, again!</string>
-    <string name="hello_world2">This is my 2nd app!</string>
+    <string name="hello_world">Hello,</string>
+    <string name="hello_world2">Check out this awesome dog:</string>
+    <string name="woohoo">QiQi</string>
     <string name="action_settings">Settings</string>
 
 </resources>

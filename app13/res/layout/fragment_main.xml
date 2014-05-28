@@ -15,11 +15,32 @@
         android:text="@string/hello_world" />
 
     <TextView
+        android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignLeft="@+id/textView1"
         android:layout_below="@+id/textView1"
         android:layout_marginTop="16dp"
         android:text="@string/hello_world2" />
+    
+     <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/textView2"
+        android:layout_marginTop="16dp"
+        android:textSize="20pt"
+        android:textColor="@android:color/darker_gray"
+        android:text="@string/woohoo" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView2"
+        android:layout_below="@+id/textView2"
+        android:layout_marginTop="52dp"
+        android:src="@drawable/qiqi" />
 
 </RelativeLayout>
